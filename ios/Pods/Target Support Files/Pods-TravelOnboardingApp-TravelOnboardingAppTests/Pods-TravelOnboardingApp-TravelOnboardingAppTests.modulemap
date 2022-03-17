@@ -1,0 +1,6 @@
+module Pods_TravelOnboardingApp_TravelOnboardingAppTests {
+  umbrella header "Pods-TravelOnboardingApp-TravelOnboardingAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
